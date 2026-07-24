@@ -975,7 +975,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MdKRwdvH2eouGvYAVB1U" name="Page-4">
-    <mxGraphModel dx="1804" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1032" dy="-107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1218,11 +1218,11 @@
             <mxPoint x="520" y="980.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhKY0Zufe8rnaE_reqfk-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text Encoder" vertex="1">
-          <mxGeometry height="30" width="120" x="94" y="1016.11" as="geometry" />
+        <mxCell id="VhKY0Zufe8rnaE_reqfk-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text Encoder $$g(.)$$&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="94" y="1035.1200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="VhKY0Zufe8rnaE_reqfk-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Image Encoder" vertex="1">
-          <mxGeometry height="30" width="120" x="38.75" y="734.38" as="geometry" />
+        <mxCell id="VhKY0Zufe8rnaE_reqfk-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Image Encoder $$f(.)$$" vertex="1">
+          <mxGeometry height="30" width="385" x="-90" y="728.93" as="geometry" />
         </mxCell>
         <mxCell id="VhKY0Zufe8rnaE_reqfk-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeWidth=1;dashed=1;dashPattern=1 1;" value="" vertex="1">
           <mxGeometry height="145.62" width="90" x="50" y="764.38" as="geometry" />
