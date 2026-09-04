@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="NCdGdw_zIZpa6WpPZQwy">
-    <mxGraphModel dx="2421" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1938" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,11 +25,13 @@
         <mxCell id="bYxgibS_bTn4OjmHdp4u-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;fontSize=17;" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;covariance-aware readout&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;$$\widetilde{f} = M f;\widetilde{w}=Mw $$&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$s_k^\text{CARe}=\cos(\widetilde{{f}},\,\widetilde{{w}})$$&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="280" x="650" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="aD4HaWXsDxPovpMTbPmr-33" edge="1" parent="1" source="bYxgibS_bTn4OjmHdp4u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=4;fontSize=19;" target="bYxgibS_bTn4OjmHdp4u-1" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aD4HaWXsDxPovpMTbPmr-33" edge="1" parent="1" source="bYxgibS_bTn4OjmHdp4u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=4;fontSize=19;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bYxgibS_bTn4OjmHdp4u-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontSize=19;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;soft pseudo-label assignment&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 28px;&quot;&gt;$$q$$&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="128" width="200" x="96" y="390" as="geometry" />
+          <mxGeometry height="128" width="200" x="90" y="396" as="geometry" />
         </mxCell>
         <mxCell id="aD4HaWXsDxPovpMTbPmr-36" edge="1" parent="1" source="bYxgibS_bTn4OjmHdp4u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=4;fontSize=19;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -115,7 +117,7 @@
             <mxPoint x="-30" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD4HaWXsDxPovpMTbPmr-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fontColor=#B3B3B3;fillColor=#CCCCCC;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="aD4HaWXsDxPovpMTbPmr-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fontColor=#97D077;fillColor=#FFFFFF;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="-70" y="417" as="geometry" />
         </mxCell>
         <mxCell id="aD4HaWXsDxPovpMTbPmr-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=block;endFill=1;fontSize=19;" value="">
@@ -125,10 +127,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aD4HaWXsDxPovpMTbPmr-43" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" value="&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34));&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;forced-color-adjust: none;&quot;&gt;$$s_k^\text{zero-shot}$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="60" x="-70" y="422" as="geometry" />
+          <mxGeometry height="70" width="60" x="-70" y="410" as="geometry" />
         </mxCell>
         <mxCell id="aD4HaWXsDxPovpMTbPmr-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=29;" value="$$w$$" vertex="1">
           <mxGeometry height="30" width="60" x="-130" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="aD4HaWXsDxPovpMTbPmr-45" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=block;endFill=1;fontSize=19;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="456.87" as="sourcePoint" />
+            <mxPoint x="89" y="456.87" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
