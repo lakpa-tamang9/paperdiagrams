@@ -124,6 +124,9 @@
         <mxCell id="FVwnrq2VCR9rETiHWuJ0-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="Training Space" vertex="1">
           <mxGeometry height="30" width="235" x="290" y="180" as="geometry" />
         </mxCell>
+        <mxCell id="FVwnrq2VCR9rETiHWuJ0-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;strokeWidth=2;" value="Input" vertex="1">
+          <mxGeometry height="30" width="235" x="52.5" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
