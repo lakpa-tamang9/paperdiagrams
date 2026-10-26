@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Fig2 PU-Gate" id="pugate">
-    <mxGraphModel dx="1473" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1460" pageHeight="460" math="1" shadow="0">
+    <mxGraphModel dx="609" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1460" pageHeight="460" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="c28" parent="1" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Helvetica;fontSize=13;fontColor=#222222;strokeColor=#1baf7a;fillColor=#ffffff;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;\(g_t = \mathbf{1}[\pi^{\mathrm{LCB}}_t \ge \pi_{\min}]\)&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="270" x="780" y="292" as="geometry" />
         </mxCell>
-        <mxCell id="c29" edge="1" parent="1" source="c9" style="endArrow=block;endFill=1;html=1;strokeWidth=1.5;rounded=1;fontFamily=Helvetica;fontSize=13;fontColor=#222222;strokeColor=#9a9a9a;dashed=1;exitX=0.5;exitY=1;entryX=0.93;entryY=0;" target="c23" value="scores \(s(x)\)">
+        <mxCell id="c29" edge="1" parent="1" source="c9" style="endArrow=block;endFill=1;html=1;strokeWidth=1.5;rounded=1;fontFamily=Helvetica;fontSize=13;fontColor=#222222;strokeColor=#9a9a9a;dashed=1;exitX=0.5;exitY=1;entryX=0.93;entryY=0;" target="c23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;scores \(s(x)\)&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c30" edge="1" parent="1" source="c23" style="endArrow=block;endFill=1;html=1;strokeWidth=1.5;rounded=1;fontFamily=Helvetica;fontSize=13;fontColor=#222222;strokeColor=#eb6834;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="c25" value="">
@@ -94,8 +94,9 @@
         <mxCell id="c33" edge="1" parent="1" source="c27" style="endArrow=block;endFill=1;html=1;strokeWidth=1.5;rounded=1;fontFamily=Helvetica;fontSize=13;fontColor=#222222;strokeColor=#9a9a9a;" target="c28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c34" edge="1" parent="1" source="c28" style="endArrow=block;endFill=1;html=1;strokeWidth=1.5;rounded=1;fontFamily=Helvetica;fontSize=13;fontColor=#222222;strokeColor=#1baf7a;strokeWidth=2;exitX=0.5;exitY=0;entryX=0.5;entryY=1;edgeStyle=orthogonalEdgeStyle;" target="c14" value="control">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="c34" edge="1" parent="1" source="c28" style="endArrow=block;endFill=1;html=1;strokeWidth=1.5;rounded=1;fontFamily=Helvetica;fontSize=16;fontColor=#222222;strokeColor=#1baf7a;strokeWidth=2;exitX=0.5;exitY=0;entryX=0.5;entryY=1;edgeStyle=orthogonalEdgeStyle;" target="c14" value="control">
+          <mxGeometry relative="1" x="-0.0302" y="-2" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="915" y="232" />
               <mxPoint x="565" y="232" />
