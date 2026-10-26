@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Fig2 PU-Gate" id="pugate">
-    <mxGraphModel dx="609" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1460" pageHeight="460" math="1" shadow="0">
+    <mxGraphModel dx="1414" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1460" pageHeight="460" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c3" parent="1" style="rounded=1;arcSize=6;html=1;fillColor=#f4f4f4;strokeColor=none;fontSize=13;fontFamily=Helvetica;" value="" vertex="1">
           <mxGeometry height="200" width="1060" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="c4" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#222222;fontColor=#555555;" value="Memory-based test-time method \((f, \phi, U)\), unchanged" vertex="1">
+        <mxCell id="c4" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#222222;fontColor=#555555;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Memory-based test-time method \((f, \phi, U)\), unchanged&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="520" x="36" y="28" as="geometry" />
         </mxCell>
         <mxCell id="c5" parent="1" style="rounded=1;arcSize=6;html=1;fillColor=#eaf6f0;strokeColor=#1baf7a;strokeWidth=1.2;fontSize=13;fontFamily=Helvetica;" value="" vertex="1">
           <mxGeometry height="190" width="1060" x="20" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="c6" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#222222;fontColor=#1baf7a;" value="&lt;b&gt;PU-Gate&lt;/b&gt;" vertex="1">
+        <mxCell id="c6" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#222222;fontColor=#1baf7a;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PU-Gate&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="26" width="300" x="36" y="248" as="geometry" />
         </mxCell>
         <mxCell id="c7" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#222222;fontSize=15;" value="&lt;b&gt;(a)&lt;/b&gt;" vertex="1">
